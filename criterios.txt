@@ -1,0 +1,1 @@
+A reserva só pode avançar quando existe uma mesa adequada e disponível.
