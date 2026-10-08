@@ -1,0 +1,1 @@
+Reserva rejeitada quando a mesa escolhida está ocupada no período pretendido.
